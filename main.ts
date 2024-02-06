@@ -1,6 +1,3 @@
-player.onChat("run", function () {
-	
-})
 player.onItemInteracted(TRIDENT, function () {
     blocks.fill(
     GLASS,
